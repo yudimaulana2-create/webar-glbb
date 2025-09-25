@@ -1,7 +1,1 @@
-echo "# webar-glbb" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/yudimaulana2-create/webar-glbb.git
-git push -u origin main
+<!-- Seluruh kode HTML WebAR GLBB akan di-copy dari halaman ini --> <!DOCTYPE html> <html lang="id"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>WebAR - Gerak Lurus Berubah Beraturan (GLBB)</title> <!-- CSS dan JavaScript lengkap --> </head> <body> <!-- Konten WebAR lengkap --> </body> </html>
